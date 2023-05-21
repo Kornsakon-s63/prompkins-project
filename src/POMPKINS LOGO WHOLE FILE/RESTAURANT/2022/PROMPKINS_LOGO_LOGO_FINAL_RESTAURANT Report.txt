@@ -1,0 +1,50 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: PROMPKINS_LOGO_LOGO_FINAL_RESTAURANT.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: centimeters
+Artboard Dimensions: 29.7 cm x 21.0002 cm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 107 C (Lab)
+PANTONE 1505 C (Lab)
+PANTONE 165 C (Lab)
+PANTONE 294 C (Lab)
+PANTONE 425 C (Lab)
+PANTONE 432 C (Lab)
+PANTONE 540 C (Lab)
+PANTONE 7521 C (Lab)
+PANTONE 7556 C (Lab)
+PANTONE 804 C (Lab)
+PANTONE Green 0921 C (Lab)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Montserrat Light (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
